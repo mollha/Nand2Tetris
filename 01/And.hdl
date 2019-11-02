@@ -16,3 +16,5 @@ CHIP And {
     Nand (a=a, b=b, out=x);
     Not (in=x, out=out);
 }
+
+// Completed
