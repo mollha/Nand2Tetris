@@ -19,3 +19,5 @@ CHIP Xor {
     And (a=nota, b=b, out=bnota);
     Or (a=anotb, b=bnota, out=out);
 }
+
+// Completed
